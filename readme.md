@@ -1,4 +1,4 @@
-# Steel Temperature Prediction Mode
+# Steel Temperature Prediction Model
 
 Welcome to the Steel Temperature Prediction Model project! My primary objective was to develop an efficient model that accurately predicts the temperature of steel during the manufacturing process.
 
