@@ -26,4 +26,6 @@ I value any feedback, contributions and collaborations from the data science com
 
 If you have any questions or need assistance, please don't hesitate to contact me at andrei.chernov.jr@gmail.com
 
+Click 'https://drive.google.com/file/d/1-5cEMeom1YaojxIDC_ph84UCPgGimrqp/view?usp=sharing' to interact with the notebook on Goodle Collab
+
 **Happy modeling!**
